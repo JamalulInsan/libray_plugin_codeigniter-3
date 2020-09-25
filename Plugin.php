@@ -66,7 +66,9 @@ class plugin{
     public function result(){
         return $this->plugin;
     }
-    
+    function dest(){
+        echo "hello word";
+    }
 
 
 }
