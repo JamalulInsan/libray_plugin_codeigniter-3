@@ -66,6 +66,9 @@ class plugin{
     public function result(){
         return $this->plugin;
     }
+     public function aman(){
+        return $this->plugin;
+    }
 
 
 }
